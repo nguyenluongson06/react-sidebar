@@ -1,0 +1,13 @@
+main {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    height: 100vh;
+    max-height: 100vh;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+svg {
+    margin-right: 8px;
+}
